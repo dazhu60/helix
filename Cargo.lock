@@ -1342,6 +1342,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "helix-gui"
+version = "24.7.0"
+
+[[package]]
 name = "helix-loader"
 version = "24.7.0"
 dependencies = [
